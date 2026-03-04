@@ -25,6 +25,16 @@ Turning data into insights and building intelligent systems that solve real prob
 - Open-source data science tools
 - NLP & prediction-based research
 
+## 👋 Hello, I’m Latchi Reddy Kasi Reddy
+
+AI & Data Science Student 🚀  
+Turning data into insights and building intelligent systems that solve real problems.
+
+ Data preprocessing & visualization pipelines
+
+
 ### 📫 Connect With Me
-- 🔗 LinkedIn: *(add your link)*
-- 📧 Email: *(add your email)*
+- 🔗 LinkedIn: https://www.linkedin.com/in/latchi-reddy-kasi-reddy-0565a7267/
+- 📧 Email: kasireddylatchireddy@gmail.com
+- instrgram: https://www.instagram.com/k_latchi_reddy/
+
