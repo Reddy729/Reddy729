@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👋 Hello, I’m Latchi Reddy Kasi Reddy
 
-<!--
-**Reddy729/Reddy729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Data Science Student 🚀  
+Turning data into insights and building intelligent systems that solve real problems.
 
-Here are some ideas to get you started:
+### 💻 About Me
+- 🎓 Pursuing Artificial Intelligence & Data Science
+- 🧠 Passionate about Machine Learning, NLP & Deep Learning
+- 🐍 Skilled in Python, NumPy, Pandas & AI frameworks
+- 🚀 Exploring Data-Driven Modeling, Text-Generation & Predictive Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I’m Currently Working On
+- Machine Learning and NLP projects
+- Classification & regression models
+- Data preprocessing & visualization pipelines
+
+### 📚 Skills & Tech Stack
+- **Languages:** Python, SQL  
+- **AI & Data:** Scikit-Learn, TensorFlow, PyTorch, Pandas, NumPy  
+- **Tools:** Jupyter, VS Code, Git, GitHub  
+- **Data Visualization:** Matplotlib, Seaborn
+
+### 📌 I’m Looking To Collaborate On
+- Real-world AI/ML applications
+- Open-source data science tools
+- NLP & prediction-based research
+
+### 📫 Connect With Me
+- 🔗 LinkedIn: *(add your link)*
+- 📧 Email: *(add your email)*
