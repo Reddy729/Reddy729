@@ -3,6 +3,8 @@
 AI & Data Science Student 🚀  
 Turning data into insights and building intelligent systems that solve real problems.
 
+ ###  Personal Statement
+I am an Artificial Intelligence and Data Science student passionate about building intelligent systems that solve real-world problems. I enjoy working with Python, Machine Learning, and Deep Learning to transform raw data into meaningful insights and predictive models. My interests include NLP, data analytics, and AI-driven automation. I am continuously learning new technologies and improving my problem-solving skills to become a skilled AI engineer. Open to collaborations, internships, and innovative tech projects that create real impact.
 ### 💻 About Me
 - 🎓 Pursuing Artificial Intelligence & Data Science
 - 🧠 Passionate about Machine Learning, NLP & Deep Learning
